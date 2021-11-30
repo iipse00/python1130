@@ -28,7 +28,7 @@ print("--값만 출력--")
 for v in d.values():
     print(v)
     
-
+ #ㅇㅇ
 
 for x in [2,3,4,5,6]:
     print("--{0}단 출력".format(x))
